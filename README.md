@@ -2,7 +2,7 @@
 
 to practice design pattern.
 
-content used to learn and create:
-https://www.youtube.com/watch?v=bPa6qDnZ-Ck
-https://refactoring.guru/pt-br/design-patterns/factory-method/python/example
+content used to learn and create:<br>
+https://www.youtube.com/watch?v=bPa6qDnZ-Ck<br>
+https://refactoring.guru/pt-br/design-patterns/factory-method/python/example<br>
 https://realpython.com/factory-method-python/
